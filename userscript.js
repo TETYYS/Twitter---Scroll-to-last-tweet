@@ -6,6 +6,7 @@
 // @author       TETYYS
 // @match        https://twitter.com/
 // @grant        none
+// @run-at       document-idle
 // ==/UserScript==
 /* jshint -W097 */
 'use strict';
